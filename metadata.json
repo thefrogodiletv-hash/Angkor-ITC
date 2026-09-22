@@ -1,0 +1,6 @@
+{
+  "name": "NexusGear - Computer Accessories Store",
+  "description": "Modern online store for high-quality computer accessories, gaming gear, and peripherals with fast shopping and regional payment options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
